@@ -2,15 +2,15 @@
   "tider": [
     {
       "navn": "mathias",
-      "tid": 3,21
+      "tid": 3.21
     },
     {
       "navn": "mads",
-      "tid": 4,5
+      "tid": 4.5
     },
     {
       "navn": "dres",
-      "tid": 12,3
+      "tid": 12.3
     }
   ]
 }
